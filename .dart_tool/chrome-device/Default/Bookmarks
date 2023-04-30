@@ -1,0 +1,120 @@
+{
+   "checksum": "63a7bbcb5018e92cb4ee16208e1f5877",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13286293601534672",
+            "date_last_used": "13325579023563619",
+            "guid": "c5d577ef-e7c4-431f-8c77-1d37e70058ad",
+            "id": "12",
+            "name": "BScIT Classroom",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/u/1/h"
+         }, {
+            "date_added": "13287079713489461",
+            "date_last_used": "13325590059557772",
+            "guid": "f1e245c7-f426-423f-b956-790919e4df1f",
+            "id": "13",
+            "name": "noelpinto47@gmail.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         } ],
+         "date_added": "13327356455383879",
+         "date_last_used": "0",
+         "date_modified": "13287079713489461",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13323702772336065",
+            "date_last_used": "0",
+            "date_modified": "13323702772336065",
+            "guid": "5754aa1b-340c-4003-b135-c4d0a83f35b0",
+            "id": "6",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "a927a1de-9a9d-453d-a8ff-ef0a0fdf95e5",
+               "id": "8",
+               "name": "Smart Web",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://smartweb.wowapp.com/"
+            }, {
+               "date_added": "13324978306389273",
+               "date_last_used": "0",
+               "guid": "7d7b5f7e-e0c5-4f64-8884-0bb2693772ed",
+               "id": "9",
+               "name": "laptops and netbooks :: gaming series :: ideapad gaming 3 15ihu6 :: 82k1 :: 82k100mvin :: mp223m8y Lenovo PC Support - Lenovo Support US",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/gaming-series/ideapad-gaming-3-15ihu6/82k1/82k100mvin/mp223m8y/downloads/driver-list/component?name=Mouse,%20Touchpad,%20Keyboard%20and%20Pen"
+            }, {
+               "date_added": "13325087571422364",
+               "date_last_used": "0",
+               "guid": "ab3f7107-f038-4b7d-8ba6-d619c3e99303",
+               "id": "10",
+               "name": "GTE Agent Checklist (2022).pdf",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "file:///C:/Users/noelp/Downloads/GTE%20Agent%20Checklist%20(2022).pdf"
+            }, {
+               "date_added": "13325581316310484",
+               "date_last_used": "0",
+               "guid": "76059c86-8692-44cf-8d96-aa69f934afef",
+               "id": "11",
+               "name": "Untitled Workspace - Creately",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://app.creately.com/d/UizyK4AaIkL/edit/s/bdfthuf7gKy"
+            } ],
+            "date_added": "13323702772336289",
+            "date_last_used": "0",
+            "date_modified": "13325581316310484",
+            "guid": "9e1fb7d4-dd31-4e68-bd03-90b8e135ef3c",
+            "id": "7",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13327356455383884",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13327356455383886",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCIn75GqHAQAAKg4QABgBIAQoBjAAOABAABIAIAEqGGl3dE53aWtQTHNBVnl0T2dyQytjRmc9PaAGDBKoAQgNEqMBChw4NEV2QU4rK3VsQXVHRFJTSm55Ym4xUFZQV2M9EiRmMWUyNDVjNy1mNDI2LTQyM2YtYjk1Ni03OTA5MTllNGRmMWYYACACKAIwxcKQnf0wOLT90JfnL0CHi46d/TBKHGxjM1Y2NE1GMVgrMHZONS9wa2RCQUNGTUtnYz1aHyId+zRKbmpIdHVyVENoZmpzdWdOc3p2R0RiRmFtZz1li6CM0RKoAQgMEqMBChxsR2VFa0hONWxqS21HcC9ENnJGVW03YzhKQnM9EiRjNWQ1NzdlZi1lN2M0LTQzMWYtOGM3Ny0xZDM3ZTcwMDU4YWQYACACKAIwxMKQnf0wOPHNiojnL0CHi46d/TBKHFYvN0JCS2tLNVc2MmxGTWpVekRvQlBnL1g5QT1aHyId73VMRUp4MFp1WkF1VTNGOExnV2ZHdkdNT2ZtND1lC1FsZxKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ3NDY0NjQ4MS0yZTY0LTVhOWUtOWZlMy0zZjQxZGRhMjY2ZjgYACAAKAAw9vi3xbAwOJqPg4jnL0Caj4OI5y9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqcBCAkSogEKHFdnMjVrUG1jZFNwYkQ4SmoxbENaaTBzdzFLcz0SJDdkN2I1ZjdlLWUwYzUtNGY2NC04ODg0LTBiYjI2OTM3NzJlZBgAIAAoADDavIuv9DA4ub2Lr/QwQLm9i6/0MEocVFlKZGgraGtuSExJYld4N1E0ZEV4Z2h6YWhnPVoeIhxKSGJDaXJsVkpQbVhLd1gxRE1kN2Nsdk1BbzA9ZWf5h2ASpwEIBhKiAQocTWRkOXVheVppa0QraEpUS2kwbS9QNFlpQitrPRIkNTc1NGFhMWItMzQwYy00MDAzLWIxMzUtYzRkMGE4M2YzNWIwGAAgACgAMN//787vMDjSgfDO7zBA0oHwzu8wShxKM3J6dWtlNkh0clVLeTFnY0hGVWZheW1UalU9Wh4iHFVNcGhYTGpVckdFeWFwRWpLejhscXRac0lwdz1lAAAAABKnAQgIEqIBChxJenZ5cVh6NmFLcXpqaTlycFJDN3QyZkNlSmc9EiRhOTI3YTFkZS05YTlkLTQ1M2QtYThmZi1lZjBhMGZkZjk1ZTUYACAAKAAw4f/vzu8wOKCC8M7vMECggvDO7zBKHHlORG1GK2dzdFkrdER5NE5FbitDNThUOGlrOD1aHiIcK2krV0RVUncreXRTN2dUVzFBVTVUaEFSOE13PWUAAAAAEqgBCAsSowEKHDRZT3RjUHdNbzdMWXlORzd4WEwvR2dxeDJUdz0SJDc2MDU5Yzg2LTg2OTItNDRjZi04ZDk2LWFhNjlmOTM0YWZlZhgAIAAoADDoutDO9jA457vQzvYwQOe70M72MEocSEIvSFA2TUFSQzBUZjR6RlZnWTFUU1dBM1MwPVofIh3SQ0NoaE0xd2VMVmJoV1FjSElFakl4Nmt6aFZFPWUiMlihEqcBCAcSogEKHDlTNjVOWWlRNjd3U1dmc0FPWmRSRFBUWlpDVT0SJDllMWZiN2Q0LWRkMzEtNGU2OC1iZDAzLTkwYjhlMTM1ZWYzYxgAIAAoADDg/+/O7zA4gYLwzu8wQIGC8M7vMEocRkgyRE13dHhuWDNvMVZLTjVpMWVxaTY5blg0PVoeIhx0UjlhTnAwcjYyTEQzWGhGSEpLeEU0aHZhaGc9ZQAAAAASqAEIChKjAQocWm9tU3llZXhsNU0vb2VxZ094VC9qWlFpNk1nPRIkYWIzZjcxMDctZjAzOC00YjdkLThiYTYtZDYxOWMzZTk5MzAzGAAgACgAMMLGmOP0MDi7x5jj9DBAu8eY4/QwShxYSEtjWTBLWXZOSmRzMWh5Uk1nb3FsWkNnMW89Wh8iHaVJMGdERlR2T1BYbGpLRDVBOFVNRHRxZ0ZWSkE9ZXdwbKMSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkOWM2MGJkMDgtZmY3Yi01MTUzLWIxZWQtZGY5NWM2ODNjMjkwGAAgACgAMPb4t8WwMDjWkIOI5y9A1pCDiOcvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRkZmY1YmFhYy0zYzY5LTVlNmMtOGE5OS1lZjQxM2YwZDhjZmIYACAAKAAw9vi3xbAwOKeVg4jnL0CnlYOI5y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
